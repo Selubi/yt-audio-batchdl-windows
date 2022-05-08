@@ -12,5 +12,5 @@ download yt-audio-batchdl-windowsv1.0.zip from https://github.com/Selubi/yt-audi
 
 Instructions :  
 Insert every link you want to download to dl-list.txt one link per line.  
-run batchdl-parallel.sh or batchdl-sequential.sh  
+run batchdl-parallel.bat or batchdl-sequential.bat  
 result will be saved at ./downloads/{uploader}/{title}.{extension}  
