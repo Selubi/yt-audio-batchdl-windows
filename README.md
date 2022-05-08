@@ -1,7 +1,7 @@
 batch downloads youtube video's audio as audio files. audio file result will most likely be .opus or .m4a
 
 this uses youtube-dl and ffmpeg :  
-https://github.com/yt-dlp/yt-dlp 
+https://github.com/yt-dlp/yt-dlp  
 https://github.com/FFmpeg/FFmpeg  
 
 batchdl-parallel.exe downloads each link in parallel  
