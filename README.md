@@ -8,7 +8,7 @@ batchdl-parallel.exe downloads each link in parallel
 batchdl-sequential.exe  downloads each link sequentially from first to last.
 
 Installation :   
-Clone the repository (press the green code button and download zip file and extract it)  
+download yt-audio-batchdl-windowsv1.0.zip from https://github.com/Selubi/yt-audio-batchdl-windows/releases/tag/v1.0 and unzip the whole folder.
 
 Instructions :  
 Insert every link you want to download to dl-list.txt one link per line.  
