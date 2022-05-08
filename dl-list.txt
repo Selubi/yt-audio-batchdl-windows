@@ -1,0 +1,3 @@
+#insert youtube links to download here, save this file and execute batchdl.bat
+https://www.youtube.com/watch?v=LDU_Txk06tM
+https://www.youtube.com/watch?v=hJqYc62NCKo

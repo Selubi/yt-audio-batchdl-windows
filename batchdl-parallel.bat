@@ -1,0 +1,1 @@
+for /F "eol=# tokens=*" %%A in (dl-list.txt) do start .\bin\youtube-dl.exe --config-location . %%A
