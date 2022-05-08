@@ -1,4 +1,4 @@
-batch downloads youtube video's audio as audio files. file result will most likely be .opus or .m4a
+batch downloads youtube video's audio as audio files. audio file result will most likely be .opus or .m4a
 
 this uses youtube-dl and ffmpeg :  
 https://github.com/ytdl-org/youtube-dl  
