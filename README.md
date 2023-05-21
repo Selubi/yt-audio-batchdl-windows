@@ -11,7 +11,7 @@ Installation :
 (user) download yt-audio-batchdl-windows.zip from https://github.com/Selubi/yt-audio-batchdl-windows/releases/latest and unzip the whole folder.
 
 
-(dev) there is no makefile yet. get yt-dlp, ffmpeg, ffprobe and put it in ./bin/
+(dev) get yt-dlp, ffmpeg, ffprobe and put it in ./bin/
 
 Instructions :  
 Insert every link you want to download to dl-list.txt one link per line.  
